@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JuliaBGrenier
+- 👋 Hi, I’m Julia
 - 👀 I’m interested in coding and manga
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking for a gf
